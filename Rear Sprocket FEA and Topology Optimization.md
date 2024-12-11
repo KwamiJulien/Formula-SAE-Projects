@@ -33,8 +33,13 @@ equilateral triangular shapes which are seen in the image below.
 
 Furthermore, the FEA analysis was performed once again on the 
 optimized sprocket and yielded the results seen below.
-It can be noted that even though the stresses are almost double that of the sprocket before the cutouts were made, they are still well below the yield strength of the material and by a safety factor of at least 3.8.
+It can be noted that even though the stresses are almost double that of the sprocket before the cutouts were made, they are still well below the yield strength of the material and by a safety factor of at least 3.8. Additionally, the deformation scale is 200 meaning the distortion is very much exaggerated for visual understanding purposes. A Factor of safety plot can also be seen below.
+
 
 <img width="460" alt="Rear.Sprocket.Top-Op" src="https://github.com/user-attachments/assets/73bbdd7e-bb65-4796-8625-115ef946d2f7"/>
 
+<img width="460" alt="FOSPlot" src="https://github.com/user-attachments/assets/a613935a-9607-474c-8f51-fe84bf9cb86a"/>
+
+## Results
+While adhering to the constraints and assumptions outlined earlier the topology optimization was successful in attaining the goal of reducing the mass by 30%. The initial sprocket which had a mass of around 1.4 pounds was reduced to 1.09 pounds demonstrating the success of the analysis.
 
